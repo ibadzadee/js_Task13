@@ -67,7 +67,7 @@ nav li:hover {
 }
 
 .left-div ul {
-    width: 320px;
+    width: 280px;
     background: -webkit-linear-gradient(328deg, #1e30f3 0%, #e21e80 100%);
     text-shadow: 0 0;
     -webkit-text-fill-color: transparent;
@@ -104,7 +104,6 @@ ul #li1 {
 .btnDiv {
     width: 100%;
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     gap: 50px;
 }

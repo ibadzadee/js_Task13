@@ -195,7 +195,7 @@ ul #li1 {
 /* --------------------------footer---------------------- */
 footer{
     width: 100%;
-    padding: 25px 0px;
+    padding: 25px 150px;
     display: flex;
     justify-content: space-between;
 }
